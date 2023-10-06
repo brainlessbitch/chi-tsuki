@@ -13,8 +13,7 @@
 | <img src='assets/squares/white.png'/> | `#c5c8c6` | `rgb(197, 200, 198)` | `hsl(150, 3.4%, 78.2%)` |
 | <img src='assets/squares/white-light.png'/> | `#dddddd` | `rgb(221, 221, 221)` | `hsl(0, 0%, 86.7%)` |
 | <img src='assets/squares/pink.png'/> | `#FF6392` | `rgb(255, 99, 146)` | `hsl(340.7, 100%, 68.8%)` |
-| <img src='assets/squares/pink-light.png'/> | `#ff96b6` | `rgb(255, 150, 182)` | `hsl(340.8,![ss](https://github.com/exoess/chi-tsuki/assets/102400503/c616822f-38d3-4674-bd98-478a15159bb8)
- 100%, 76.5%)` |
+| <img src='assets/squares/pink-light.png'/> | `#ff96b6` | `rgb(255, 150, 182)` | `hsl(340.8, 100%, 76.5%)` |
 | <img src='assets/squares/yellow.png'/> | `#FFE45E` | `rgb(255, 228, 94)` | `hsl(56.2, 100%, 71.4%)` |
 | <img src='assets/squares/yellow-light.png'/> | `#ffed91` | `rgb(255, 237, 145)` | `hsl(56.2, 100%, 76.5%)` |
 | <img src='assets/squares/green.png'/> | `#7fdb9c` | `rgb(127, 219, 156)` | `hsl(157.3, 57.1%, 63.7%)` |
