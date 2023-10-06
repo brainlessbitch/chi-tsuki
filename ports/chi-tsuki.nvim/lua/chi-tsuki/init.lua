@@ -1,5 +1,5 @@
 local M = {}
-local theme = require('tsuki.theme')
+local theme = require('chi-tsuki.theme')
 
 M.setup = function()
   vim.cmd('hi clear')
@@ -10,7 +10,7 @@ M.setup = function()
   end
 
   vim.o.termguicolors = true
-  vim.g.colors_name = 'tsuki'
+  vim.g.colors_name = 'chi-tsuki'
 
   theme.set_highlights()
 end

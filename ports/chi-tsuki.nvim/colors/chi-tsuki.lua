@@ -1,0 +1,1 @@
+require("chi-tsuki").setup({})
